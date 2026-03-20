@@ -1,10 +1,9 @@
 ---
-
 layout: archive
 title: "About Me"
 permalink: /
 author_profile: true
---------------------
+---
 
 I am a Soil Scientist at ICAR-IIWM, Bhubaneswar, working on GHG emissions, Remote Sensing, Water management, SWAT modelling, Nutrient dynamics, and Sustainable agriculture.
 
