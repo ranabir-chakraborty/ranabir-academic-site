@@ -19,6 +19,3 @@ This tool simplifies statistical analysis in agricultural research and removes t
 
  **Live Tool:**
 https://ranabir.shinyapps.io/agristat/
-
-**GitHub Repository:**
-https://github.com/ranabir-chakraborty/agristat
